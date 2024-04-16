@@ -48,13 +48,13 @@ const RefLinkItems: Array<LinkItemProps> = [
   {
     name: 'Github',
     icon: FiGithub,
-    route: 'https://github.com/rockasterjames/nex3',
+    route: 'https://github.com',
     isBlank: true,
   },
   {
     name: 'Report Issues',
     icon: FiAlertCircle,
-    route: 'https://github.com/rockasterjames/nex3/issues',
+    route: 'https://github.com',
     isBlank: true,
   },
 ]
